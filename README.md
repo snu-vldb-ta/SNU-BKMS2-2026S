@@ -1,4 +1,4 @@
-# SNU-BKMS2-2026S
+# SNU-BKMS1-2026S
 
 Instructor: Prof. Sang-Won Lee
 
